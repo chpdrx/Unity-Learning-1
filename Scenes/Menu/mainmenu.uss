@@ -1,0 +1,47 @@
+.unity-button:checked {
+    border-left-width: 0;
+    border-right-width: 0;
+    border-top-width: 0;
+    border-bottom-width: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+    border-left-color: rgb(120, 117, 68);
+    border-right-color: rgb(120, 117, 68);
+    border-top-color: rgb(120, 117, 68);
+    border-bottom-color: rgb(120, 117, 68);
+    overflow: visible;
+    visibility: visible;
+    color: rgb(241, 193, 99);
+    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Bangers.ttf?fileID=12800000&guid=5dd49b3eacc540408c98eee0de38e0f1&type=3#Bangers');
+    font-size: 36px;
+}
+
+.unity-button:hover {
+    border-left-width: 5px;
+    border-right-width: 5px;
+    border-top-width: 5px;
+    border-bottom-width: 5px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    border-left-color: rgb(120, 117, 68);
+    border-right-color: rgb(120, 117, 68);
+    border-top-color: rgb(120, 117, 68);
+    border-bottom-color: rgb(120, 117, 68);
+    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Bangers.ttf?fileID=12800000&guid=5dd49b3eacc540408c98eee0de38e0f1&type=3#Bangers');
+    font-size: 36px;
+    color: rgba(207, 207, 207, 255);
+}
+
+.unity-button {
+    margin-top: 5px;
+    -unity-font-definition: none;
+    -unity-font: url('project://database/Assets/TextMesh%20Pro/Examples%20&%20Extras/Fonts/Bangers.ttf?fileID=12800000&guid=5dd49b3eacc540408c98eee0de38e0f1&type=3#Bangers');
+    font-size: 36px;
+    color: rgba(241, 193, 99, 255);
+}
